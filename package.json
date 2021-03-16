@@ -1,0 +1,14 @@
+{
+  "name": "remarkable-module",
+  "version": "1.0.0",
+  "description": "Amna Remarkable Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lines-parser": "^0.0.10"
+  }
+}
